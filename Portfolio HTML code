@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="port.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <img src="C:\Users\ACER\Downloads\IMG_20241010_132240.jpg" alt="Profile Picture" class="profile-pic">
+            <div class="header-text">
+                <h1>Akshat Sharma</h1>
+                <p>A hardworker that hardly works but gets the job done at the best quality</p>
+            </div>
+        </div>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <div class="about-content">
+            <img src="C:\Users\ACER\Downloads\IMG_20241010_132309.jpg" alt="picture">
+            <p>Hello! I’m Akshat Sharma, a passionate web developer specializing in front-end and back-end technologies. I enjoy building creative solutions for digital experiences and I am constantly honing my skills in HTML, CSS, and various web development frameworks.</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>Responsive Web Design</li>
+            <li>JavaScript (optional)</li>
+            <li>Version Control (Git)</li>
+            <li>Backend Development</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="projects-grid">
+            <div class="project">
+                <img src="https://bootstrapbrain.com/wp-content/uploads/2024/04/13-AutoCare-jpg.webp" alt="Project 1">
+                <h3>Car Repair Shop</h3>
+                <p>A Car Repair Shop web page with implementation of various css elements that define the html structure.</p>
+            </div>
+            <div class="project">
+                <img src=https://img.freepik.com/free-psd/retro-welcome-party-landing-page-template_23-2149999321.jpg alt="Project 2">
+                <h3>College Fest Webpage</h3>
+                <p>A College Fest web page with css implemented in it to show divisions.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="resume.pdf" download>Download My Resume (PDF)</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: akshat.sharma@gmail.com</p>
+        <p>Phone: 9978545561</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Akshat Sharma. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
