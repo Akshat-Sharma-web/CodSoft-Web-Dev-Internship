@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="landing.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Welcome to Our Product</h1>
+            <p>Your perfect solution for managing everything in one place</p>
+            <a href="#features" class="btn">Explore Features</a>
+        </div>
+    </header>
+
+    <section id="features">
+        <div class="container">
+            <h2>Our Features</h2>
+            <div class="features-row">
+                <div class="feature">
+                    <h3>Easy to Use</h3>
+                    <p>Our product is designed to be intuitive and user-friendly for everyone.</p>
+                </div>
+                <div class="feature">
+                    <h3>Customizable</h3>
+                    <p>Customize the settings to fit your specific needs with ease.</p>
+                </div>
+                <div class="feature">
+                    <h3>Secure</h3>
+                    <p>Your data is protected with top-tier security measures.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>We are a team of passionate developers committed to creating the best product that solves real-world problems. Our goal is to simplify your life with efficient solutions.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Have questions? Reach out to us and we’ll get back to you as soon as possible.</p>
+            <p>Email: info@jo.com</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Jo's IT services. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
